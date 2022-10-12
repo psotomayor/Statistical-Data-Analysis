@@ -2,16 +2,16 @@
 Class notes on a postgraduate course of Statistical Data Analysis.
 Notebooks of solved exercises are added.
 
-1. Discrete probability
+1. Discrete Probability
 
-2. Continuous probability
+2. Continuous Probability
 
-3. Multidimensional probability
+3. Multivariate Probability
 
-4. Parameter estimators
+4. Parameter Estimation
 
-5. Interval estimation
+5. Interval Estimation
 
-6. Hypothesis tests
+6. Hypothesis Testing
 
-7. Data fit
+7. Data Fitting
